@@ -41,5 +41,3 @@ Made by following a tutorial consisting of several properties made by intricate 
 ## Result
 
 ![Image_1](./Images/brunch.png)
-
-## Happy coding!
