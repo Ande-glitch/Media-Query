@@ -1,7 +1,7 @@
 <h1 align="center">Media Query</h1>
 <div align="center">
   <h3>
-    <a href="https://ande-glitch.github.io/homepage/">
+    <a href="https://ande-glitch.github.io/Media-Query/">
       Link to project
     </a>
   </h3>
