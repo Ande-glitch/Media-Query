@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Survey</h1>
+<h1 align="center">Media Query</h1>
 <div align="center">
   <h3>
     <a href="https://ande-glitch.github.io/homepage/">
@@ -18,7 +18,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-A project made with properties consisting of intricate HTML structure and various CSS elements and Flexbox.
+Made by following a tutorial consisting of several properties made by intricate design utilizing media queries.
 
 ### Built With
 - [HTML](https://www.w3schools.com/html/)
